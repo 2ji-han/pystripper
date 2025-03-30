@@ -22,3 +22,4 @@ Commands:
 
 - [ ] docstringの抽出に対応
 - [ ] minifyの選択を追加
+- [ ] パッケージ化機能の追加 [1](https://packaging.python.org/ja/latest/tutorials/packaging-projects/#generating-distribution-archives) [2](https://github.com/pypa/hatch)
